@@ -13,7 +13,7 @@ pip3.6 install --extra-index-url http://ec2-13-125-248-226.ap-northeast-2.comput
 
 sample requirements_private.txt
 ```text
-f2maru_qa==0.0.1
+f2maru-qa==0.0.1
 ```
 
 ## Insert data
