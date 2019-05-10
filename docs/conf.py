@@ -22,6 +22,7 @@ copyright = '2019, pawn'
 author = 'pawn'
 
 # The full version, including alpha/beta/rc tags
+version = '0.1'
 release = '0.1'
 
 
