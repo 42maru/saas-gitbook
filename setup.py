@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 version = dict()
-with open('./f2maru_qa/version.py') as fp:
+with open('./f2maru_qa.rst/version.py') as fp:
     exec(fp.read(), version)
 
 setup(
-    name='f2maru_qa',
+    name='f2maru_qa.rst',
     version=version['__version__'],
     description='42Maru QA Engine Client',
     author='dante',
