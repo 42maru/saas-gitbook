@@ -1,22 +1,23 @@
 # 42maru QA Engine API Client for Python
 
-1. **[Install](#install)**
-1. **[Insert Data](#insert-data)**
-1. **[Inquiry](#inquiry)**
+1. [**Install**](./#install)
+2. [**Insert Data**](./#insert-data)
+3. [**Inquiry**](./#inquiry)
 
 ## Install
-
 
 ```bash
 pip3.6 install --extra-index-url http://ec2-13-125-248-226.ap-northeast-2.compute.amazonaws.com/simple --trusted-host ec2-13-125-248-226.ap-northeast-2.compute.amazonaws.com -r ./requirements_private.txt
 ```
 
-sample requirements_private.txt
+sample requirements\_private.txt
+
 ```text
 f2maru-qa==0.0.1
 ```
 
 ## Insert data
+
 ```python
 from f2maru_qa.client import Client
 
@@ -26,12 +27,11 @@ client = Client(app_code, api_key)
 
 result = client.bulk_insert(json.load(open('sample.json')))
 print("bulk insert result is {}".format(result))
-
 ```
 
 sample.json
-```json
 
+```javascript
 [
   {
     "title": "사레 들린 백종원, 큰 충격 받은 조보아... 경악스럽다",
@@ -49,6 +49,7 @@ sample.json
 ```
 
 ## Inquiry
+
 ```python
 from f2maru_qa.client import Client
 
@@ -58,5 +59,5 @@ client = Client(app_code, api_key)
 
 res = client.inquiry("유승호 나이는?")
 pprint(res)
-
 ```
+
