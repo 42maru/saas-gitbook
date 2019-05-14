@@ -5,7 +5,9 @@
 
 ## Search Services
 
-* [${MRC}](search-service/usd-mrc.md)
+* [${MRC}](search-service/usd-mrc/README.md)
+  * [Insert Data](search-service/usd-mrc/insert-data.md)
+  * [Querying](search-service/usd-mrc/querying.md)
 * [${NLP}](search-service/usd-nlp.md)
 
 ## Features
