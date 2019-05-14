@@ -26,5 +26,6 @@
 * [Glossary](quick-start/glossary.md)
 * [Security](quick-start/security.md)
 * [Best Practices](quick-start/untitled.md)
+* [Pricing](quick-start/pricing.md)
 * [Troubleshooting](quick-start/troubleshooting.md)
 
