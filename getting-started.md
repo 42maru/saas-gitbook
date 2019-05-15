@@ -28,14 +28,14 @@ ${platform} 의 검색 서비스를 이용하기 위해서는 계정 및 ${app} 
 임계값을 지나치게 낮게 설정한다면 잘못된 ${query} 에 대해서도 ${answer} 를 찾아내서 반환하게 됩니다. 반면 임계값이 지나치게 높으면 ${answer} 판단이 엄격해지게 되어 많은 ${query} 에 대해서 ${noanswer}로 판단합니다. 따라서 임계값을 수정하면서 Test 를 거쳐 적절한 임계값을 찾아내시기를 설정하길 권장드립니다. 
 {% endhint %}
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 ### Step 3 : authentication
 
 ${App} 을 생성하게 되면 ${platform} 의 기능 대부분을 사용하실 수 있습니다. 하지만 API 나 SDK 를 통하여   
 ${platform} 의 기능을 사용하시려면 ${App}의 Application Code 값과 API Key 값이 필요합니다. 이 값들은 Setting 탭에서 확인하실 수 있습니다.
 
-![http://alpha.42maru.com/applications/{app\_code}/settings](.gitbook/assets/image%20%284%29.png)
+![http://alpha.42maru.com/applications/{app\_code}/settings](.gitbook/assets/image%20%285%29.png)
 
 
 

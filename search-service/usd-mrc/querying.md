@@ -8,13 +8,13 @@ description: '이 문서에는 ${MRC} 검색엔진에 ${query} 를 전달해서 
 
 Simulation 탭으로 이동합니다. 그리고 텍스트 박스\(Questions\) 안에 ${query} 를 입력합니다.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 정상적으로 ${query} 입력하셨다면  ${answer} 와 해당 ${answer} 를 찾아낸 ${passage} 를 확인하실 수 있습니다. ${answer} 는 ${validity} 따라 정렬되어 가장 높은 ${validity}를 가진 ${answer} 를 화면 상단에 노출시킵니다.
 
 > 정답과 함께 나타난 값\(0.996\) 은 해당 ${answer} 에 대한 검색엔진의 신뢰도를 의미합니다.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ## SDK
 
