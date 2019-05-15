@@ -35,11 +35,11 @@ API
 {% api-method-request %}
 {% api-method-headers %}
 {% api-method-parameter name="X-PLATFORM42-APP-ID" type="string" required=true %}
-${app} 식벽을 위한 id 
+${app} 의 ID 값
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="X-PLATFORM42-API-KEY" type="string" required=true %}
-${app} 정보 조회의 권환 획득을 위한 key  
+${app} 의 접근권한을 가진 Key 값
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 

@@ -37,7 +37,7 @@ ${app} 식벽을 위한 id
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="X-PLATFORM42-API-KEY" type="string" required=true %}
-${app} 정보 조회의 권환 획득을 위한 key 
+${app} 의 접근권한을 가진 Key
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 
@@ -69,8 +69,6 @@ ${MRC }검색 엔진에 전달할 ${query}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
 
 
