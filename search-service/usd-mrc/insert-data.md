@@ -6,6 +6,18 @@ description: '이 문서에는 ${MRC} 검색엔진에 ${passage}  데이터를 �
 
 ## Browser
 
+Browser 상에서 ${passage} 문서 추가는 Documents 화면에서 가능합니다.
+
+![](../../.gitbook/assets/image%20%285%29.png)
+
+그 다음 File Upload 버튼을 누르시면 파일은 업로드 하실 수 있습니다.
+
+{% hint style="info" %}
+json, excel 형식의 파일을 지원합니다.
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%286%29.png)
+
 ## SDK
 
 
