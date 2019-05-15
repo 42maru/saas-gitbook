@@ -13,7 +13,6 @@
 ## Features
 
 * [Account](product/usd-mrc.md)
-* [Data](product/data.md)
 * [Log](product/log.md)
 * [Monitoring](product/static.md)
 * [Frequently](product/frequently.md)
