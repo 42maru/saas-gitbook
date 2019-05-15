@@ -13,11 +13,13 @@
 ## Features
 
 * [Account](product/usd-mrc.md)
-* [Log](product/log.md)
+* [LOG](product/log.md)
 * [Monitoring](product/static.md)
 * [Frequently](product/frequently.md)
 * [Simulation](product/simulation.md)
 * [API](product/api.md)
+* [APP](product/app.md)
+* [Untitled](product/untitled.md)
 
 ## Additional Resources
 
