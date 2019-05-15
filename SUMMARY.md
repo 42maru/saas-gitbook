@@ -14,7 +14,10 @@
 
 * [Account](product/usd-mrc.md)
 * [LOG](product/log.md)
-* [Monitoring](product/static.md)
+* [Monitoring](product/static/README.md)
+  * [Documents](product/static/documents.md)
+  * [Status](product/static/status.md)
+  * [Latency](product/static/latency.md)
 * [Frequently](product/frequently.md)
 * [Simulation](product/simulation.md)
 * [API](product/api.md)
