@@ -19,7 +19,6 @@
 * [Simulation](product/simulation.md)
 * [API](product/api.md)
 * [APP](product/app.md)
-* [Untitled](product/untitled.md)
 
 ## Additional Resources
 
