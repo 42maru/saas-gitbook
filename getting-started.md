@@ -14,7 +14,7 @@ ${platform} 의 검색 서비스를 이용하기 위해서는 계정 및 ${app} 
 
 ### Step 2 : Create an App
 
-최초로 계정 정보를 등록하신 후 접하게 되는 아래 화면에서 새로운 ${APP} 을 생성하실 수 있습니다. ${Platform} 의 모든 기능들은 ${APP} 단위로 구분되어 있기 때문에 ${APP} 은 서로 정보를 공유하거나 영향을 주지 않습니다. 따라서 사용자는 다양한 설정값과 데이터로 만들어진 여러 개의 ${APP}을 운영하는 것이 가능합니다.
+최초로 계정 정보를 등록하신 후 접하게 되는 아래 화면에서 새로운 ${APP} 을 생성하실 수 있습니다. ${Platform} 의 계정관리를 제외한 모 기능들은 ${APP} 단위로 구분되어 있기 때문에 ${APP} 은 서로 정보를 공유하거나 영향을 주지 않습니다. 따라서 사용자는 다양한 설정값과 데이터로 만들어진 여러 개의 ${APP}을 운영하는 것이 가능합니다.
 
 * 애플리케이션 이름 : ${APP} 이름
 * 애플리케이션 설정 언어 : ${APP} 은 이곳에서 설정한 언어를 앞으로 들어올 ${query} 의 언어라고 인지합니다.
@@ -28,15 +28,19 @@ ${platform} 의 검색 서비스를 이용하기 위해서는 계정 및 ${app} 
 임계값을 지나치게 낮게 설정한다면 잘못된 ${query} 에 대해서도 ${answer} 를 찾아내서 반환하게 됩니다. 반면 임계값이 지나치게 높으면 ${answer} 판단이 엄격해지게 되어 많은 ${query} 에 대해서 ${noanswer}로 판단합니다. 따라서 임계값을 수정하면서 Test 를 거쳐 적절한 임계값을  설정하기를 권장드립니다. 
 {% endhint %}
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 ### Step 3 : authentication
 
 ${App} 을 생성하게 되면 ${platform} 의 기능 대부분을 사용하실 수 있습니다. 하지만 API와 SDK 를 사용할 때는 ${App}의 Application Code 값과 API Key 값이 필요합니다. 이 값들은 Setting 탭에서 확인하실 수 있습니다.
 
+dfasdfasdf
+
 ![http://alpha.42maru.com/applications/{app\_code}/settings](.gitbook/assets/image%20%285%29.png)
 
+### Step 4 : Dashboard
 
+대쉬보드를 확인하는 과정을 보여줄 
 
 ## Optional : Installation SDK
 
@@ -48,9 +52,45 @@ $ pip install ~~~
 
 ## Next Steps
 
-계정 및 ${app} 이 생성 되었다면 각각의 검색서비스를 이용하실 수 있으며 방법은 아래 문서들에 기재되어 있습니다.
+계정 및 ${app} 이 생성 되었다면 ${platform} 의 기능들을 정삭적으로 이용하실 수 있습니다. 
+
+### Search Services
 
 {% page-ref page="search-service/usd-mrc/" %}
 
 {% page-ref page="search-service/usd-nlp.md" %}
+
+
+
+### Features
+
+{% page-ref page="product/usd-mrc.md" %}
+
+{% page-ref page="product/log.md" %}
+
+{% page-ref page="product/static/" %}
+
+{% page-ref page="product/frequently.md" %}
+
+{% page-ref page="product/simulation.md" %}
+
+{% page-ref page="product/api.md" %}
+
+{% page-ref page="product/app.md" %}
+
+### 
+
+### Additional Resources
+
+{% page-ref page="quick-start/untitled.md" %}
+
+{% page-ref page="quick-start/glossary.md" %}
+
+{% page-ref page="quick-start/security.md" %}
+
+{% page-ref page="quick-start/pricing.md" %}
+
+{% page-ref page="quick-start/usd-mrc.md" %}
+
+{% page-ref page="quick-start/troubleshooting.md" %}
 

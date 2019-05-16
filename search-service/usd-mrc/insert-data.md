@@ -16,7 +16,7 @@ Browser 상에서 ${passage} 문서 추가는 Documents 화면에서 가능합�
 json, excel 형식의 파일을 지원합니다.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ### SDK
 

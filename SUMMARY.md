@@ -25,10 +25,10 @@
 
 ## Additional Resources
 
-* [FAQ](quick-start/usd-mrc.md)
+* [Best Practices](quick-start/untitled.md)
 * [Glossary](quick-start/glossary.md)
 * [Security](quick-start/security.md)
-* [Best Practices](quick-start/untitled.md)
 * [Pricing](quick-start/pricing.md)
+* [FAQ](quick-start/usd-mrc.md)
 * [Troubleshooting](quick-start/troubleshooting.md)
 
