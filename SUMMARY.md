@@ -21,7 +21,7 @@
 * [Frequently](product/frequently.md)
 * [Simulation](product/simulation.md)
 * [API](product/api.md)
-* [APP](product/app.md)
+* [${APP}](product/app.md)
 
 ## Additional Resources
 
