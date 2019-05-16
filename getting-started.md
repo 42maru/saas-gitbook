@@ -88,8 +88,6 @@ $ pip install ~~~
 
 {% page-ref page="quick-start/security.md" %}
 
-{% page-ref page="quick-start/pricing.md" %}
-
 {% page-ref page="quick-start/usd-mrc.md" %}
 
 {% page-ref page="quick-start/troubleshooting.md" %}

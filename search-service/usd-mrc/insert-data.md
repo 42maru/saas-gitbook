@@ -44,7 +44,15 @@ ${app} 의 접근권한을 가진 Key 값
 {% endapi-method-headers %}
 
 {% api-method-body-parameters %}
-{% api-method-parameter name="" type="array" required=true %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+
+{% api-method-parameter name="data" type="object" required=true %}
 
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
