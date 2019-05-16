@@ -1,5 +1,5 @@
 ---
-description: '이 문서에는 ${MRC} 검색엔진에 ${passage}  데이터를 등록하는 방법이 기술되어 있습니다.'
+description: '${MRC} 를 사용하기 위해서는 먼저 ${passage} 데이터를 업로드 하셔야 합니다.'
 ---
 
 # Insert Data

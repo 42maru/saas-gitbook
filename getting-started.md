@@ -32,8 +32,7 @@ ${platform} 의 검색 서비스를 이용하기 위해서는 계정 및 ${app} 
 
 ### Step 3 : authentication
 
-${App} 을 생성하게 되면 ${platform} 의 기능 대부분을 사용하실 수 있습니다. 하지만 API 나 SDK 를 통하여   
-${platform} 의 기능을 사용하시려면 ${App}의 Application Code 값과 API Key 값이 필요합니다. 이 값들은 Setting 탭에서 확인하실 수 있습니다.
+${App} 을 생성하게 되면 ${platform} 의 기능 대부분을 사용하실 수 있습니다. 하지만 API와 SDK 를 사용할 때는 ${App}의 Application Code 값과 API Key 값이 필요합니다. 이 값들은 Setting 탭에서 확인하실 수 있습니다.
 
 ![http://alpha.42maru.com/applications/{app\_code}/settings](.gitbook/assets/image%20%285%29.png)
 

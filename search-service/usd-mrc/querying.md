@@ -1,5 +1,5 @@
 ---
-description: '이 문서에는 ${MRC} 검색엔진에 ${query} 를 전달해서 ${answer} 를 받는 방법이 기술되어 있습니다.'
+description: '${MRC} 검색엔진은 업로드된 ${passage} 데이터를 바탕으로 ${query} 의 ${answer} 를 찾아냅니다.'
 ---
 
 # Querying
