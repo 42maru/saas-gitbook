@@ -8,7 +8,7 @@ description: '${MRC} 검색엔진은 업로드된 ${passage} 데이터를 바탕
 
 Simulation 탭으로 이동합니다. 그리고 텍스트 박스\(Questions\) 안에 ${query} 를 입력합니다.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![http://alpha.42maru.com/applications/{app\_code}/mrc/simulation](../../.gitbook/assets/image%20%286%29.png)
 
 정상적으로 ${query} 입력하셨다면  ${answer} 와 해당 ${answer} 를 찾아낸 ${passage} 를 확인하실 수 있습니다. ${answer} 는 ${validity} 따라 정렬되어 가장 높은 ${validity}를 가진 ${answer} 를 화면 상단에 노출시킵니다.
 
