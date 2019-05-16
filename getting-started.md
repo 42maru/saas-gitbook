@@ -1,5 +1,5 @@
 ---
-description: '이 문서에서는 ${platform} 이용 전 필수 준비과정과 선택적 준비과정을 설명하고 있습니다.'
+description: '${platform} 을 이용하시기 위해서는 몇 가지 과정이 필요합니다.'
 ---
 
 # Getting Started
