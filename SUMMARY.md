@@ -5,29 +5,29 @@
 
 ## Search Services
 
-* [${MRC}](search-service/usd-mrc/README.md)
-  * [Insert Data](search-service/usd-mrc/insert-data.md)
-  * [Querying](search-service/usd-mrc/querying.md)
-* [${NLP}](search-service/usd-nlp.md)
+* [${MRC}](search-services/usd-mrc/README.md)
+  * [Insert Data](search-services/usd-mrc/insert-data.md)
+  * [Querying](search-services/usd-mrc/querying.md)
+* [${NLP}](search-services/usd-nlp.md)
 
 ## Features
 
-* [Account](product/usd-mrc.md)
-* [LOG](product/log.md)
-* [Monitoring](product/static/README.md)
-  * [Documents](product/static/documents.md)
-  * [Status](product/static/status.md)
-  * [Latency](product/static/latency.md)
-* [Frequently](product/frequently.md)
-* [Simulation](product/simulation.md)
-* [API](product/api.md)
-* [${APP}](product/app.md)
+* [Account](features/usd-mrc.md)
+* [LOG](features/log.md)
+* [Monitoring](features/static/README.md)
+  * [Documents](features/static/documents.md)
+  * [Status](features/static/status.md)
+  * [Latency](features/static/latency.md)
+* [Frequently](features/frequently.md)
+* [Simulation](features/simulation.md)
+* [API](features/api.md)
+* [${APP}](features/app.md)
 
 ## Additional Resources
 
-* [Best Practices](quick-start/untitled.md)
-* [Glossary](quick-start/glossary.md)
-* [Security](quick-start/security.md)
-* [FAQ](quick-start/usd-mrc.md)
-* [Troubleshooting](quick-start/troubleshooting.md)
+* [Best Practices](additional-resources/untitled.md)
+* [Glossary](additional-resources/glossary.md)
+* [Security](additional-resources/security.md)
+* [FAQ](additional-resources/usd-mrc.md)
+* [Troubleshooting](additional-resources/troubleshooting.md)
 

@@ -8,7 +8,7 @@
 
 #### ${MRC}
 
-MRC 간략한 설명 
+MRC 간략한 설명
 
 #### ${NLP}
 
@@ -17,8 +17,6 @@ NLP 간략한 설au
 ### Features
 
 ${platform} 기능소
-
-#### 
 
 ### Architecture
 
@@ -29,10 +27,4 @@ ${platform} 기능소
 우리의 서비스는 이러한 비즈니스에 어울린다
 
 ### CMS
-
-
-
-
-
-
 
