@@ -85,8 +85,6 @@ $ pip install ~~~
 
 {% page-ref page="search-services/usd-mrc/" %}
 
-{% page-ref page="search-services/usd-nlp.md" %}
-
 ### Features
 
 {% page-ref page="features/usd-mrc.md" %}
