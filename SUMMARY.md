@@ -5,8 +5,8 @@
 
 ## Search Services
 
-* [${MRC}](search-services/usd-mrc/README.md)
-  * [Insert Data](search-services/usd-mrc/insert-data.md)
+* [MRC](search-services/usd-mrc/README.md)
+  * [Upload passage](search-services/usd-mrc/insert-data.md)
   * [Querying](search-services/usd-mrc/querying.md)
 * [${NLP}](search-services/usd-nlp.md)
 
