@@ -97,7 +97,7 @@ Upload many passages
 {% endapi-method-summary %}
 
 {% api-method-description %}
- 여러개의 문서를 업로드 한다.
+ 여러 개의 문서를 업로드 한다.
 {% endapi-method-description %}
 
 {% api-method-spec %}
