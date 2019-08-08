@@ -29,7 +29,7 @@ Get MRC result
 {% api-method-request %}
 {% api-method-headers %}
 {% api-method-parameter name="X-PLATFORM42-APP-ID" type="string" required=true %}
-app의 id 
+app의 id
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="X-PLATFORM42-API-KEY" type="string" required=true %}
@@ -43,11 +43,11 @@ MRC검색 엔진에 전달할 질문
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="debug" type="boolean" required=false %}
-true로 설정 시 검색 결과를 자세히 확인할 수 있다. 
+true로 설정 시 검색 결과를 자세히 확인할 수 있다.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="count" type="integer" required=false %}
- 응답으로 받을 정답 상위 후보군의 개수
+응답으로 받을 정답 상위 후보군의 개수
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
@@ -76,7 +76,7 @@ true로 설정 시 검색 결과를 자세히 확인할 수 있다.
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}

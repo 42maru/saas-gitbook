@@ -18,15 +18,13 @@ json, excel 형식의 파일을 지원합니다.
 
 ![](../../.gitbook/assets/image-11.png)
 
-
-
 {% api-method method="post" host="http://alpha.42maru.com" path="/api/application/documents" %}
 {% api-method-summary %}
 Upload a passage
 {% endapi-method-summary %}
 
 {% api-method-description %}
- 하나의 문서를 업로드 한다.
+하나의 문서를 업로드 한다.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -69,7 +67,7 @@ app의 접근권한을 가진 key
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -97,7 +95,7 @@ Upload many passages
 {% endapi-method-summary %}
 
 {% api-method-description %}
- 여러 개의 문서를 업로드 한다.
+여러 개의 문서를 업로드 한다.
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -131,7 +129,7 @@ app 의 접근권한을 가진 Key
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
